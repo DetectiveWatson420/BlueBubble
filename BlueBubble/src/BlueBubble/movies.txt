@@ -68,7 +68,7 @@ The Matrix,Lana Wachowski,Carrie-Anne Moss,Science Fiction\
 The Social Network,David Fincher,Justin Timberlake,Drama\
 La La Land,Damien Chazelle,Emma Stone,Musical\
 Interstellar,Christopher Nolan,Anne Hathaway,Science Fiction\
-Gravity,Alfonso Cuar\'f3n,George Clooney,Thriller\
+Gravity,Alfonso Cuar,George Clooney,Thriller\
 The Great Gatsby,Baz Luhrmann,Tobey Maguire,Drama\
 The Lion King,Jon Favreau,Donald Glover,Adventure\
 Black Swan,Darren Aronofsky,Mila Kunis,Drama\
