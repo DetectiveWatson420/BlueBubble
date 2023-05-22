@@ -19,8 +19,7 @@ public class Movie {
         this.genre = genre;
     }
 
-    // Getters and setters (optional)
-
+    // Getters and setters
     public static void main(String[] args) {
         String csvFile = "/Users/209580/Documents/movies.csv";  // Specify the CSV file path
         String line;
@@ -54,7 +53,7 @@ public class Movie {
         }
     }
 
-    // Getters and setters (optional)
+    // Getters and setters 
 
     public String getName() {
         return name;
