@@ -21,7 +21,7 @@ public class Movie {
 
     // Getters and setters
     public static void main(String[] args) {
-        String csvFile = "/Users/209580/Documents/movies.csv";  // Specify the CSV file path
+        String csvFile = "movies.csv";  // Specify the CSV file path
         String line;
         String csvDelimiter = ",";  // Specify the CSV delimiter
         List<Movie> movies = new ArrayList<>();
