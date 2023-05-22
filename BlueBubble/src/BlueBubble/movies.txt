@@ -1,0 +1,74 @@
+
+The Shawshank Redemption,Frank Darabont,Tim Robbins,Drama\
+The Godfather,Francis Ford Coppola,Marlon Brando,Crime\
+Pulp Fiction,Quentin Tarantino,John Travolta,Crime\
+The Dark Knight,Christopher Nolan,Christian Bale,Action\
+Schindler's List,Steven Spielberg,Liam Neeson,History\
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,Elijah Wood,Fantasy\
+Fight Club,David Fincher,Brad Pitt,Drama\
+Forrest Gump,Robert Zemeckis,Tom Hanks,Drama\
+Inception,Christopher Nolan,Leonardo DiCaprio,Science Fiction\
+The Matrix,Lana Wachowski,Keanu Reeves,Science Fiction\
+Gone Girl,David Fincher,Ben Affleck,Thriller\
+Casablanca,Michael Curtiz,Humphrey Bogart,Romance\
+Citizen Kane,Orson Welles,Orson Welles,Drama\
+The Departed,Martin Scorsese,Leonardo DiCaprio,Crime\
+The Silence of the Lambs,Jonathan Demme,Anthony Hopkins,Thriller\
+The Green Mile,Frank Darabont,Tom Hanks,Drama\
+Goodfellas,Martin Scorsese,Robert De Niro,Crime\
+Saving Private Ryan,Steven Spielberg,Tom Hanks,War\
+Eternal Sunshine of the Spotless Mind,Michel Gondry,Jim Carrey,Romance\
+The Social Network,David Fincher,Jesse Eisenberg,Drama\
+The Grand Budapest Hotel,Wes Anderson,Ralph Fiennes,Comedy\
+Gone with the Wind,Victor Fleming,Clark Gable,Drama\
+Raiders of the Lost Ark,Steven Spielberg,Harrison Ford,Adventure\
+The Shining,Stanley Kubrick,Jack Nicholson,Horror\
+No Country for Old Men,Joel Coen,Javier Bardem,Thriller\
+American Beauty,Sam Mendes,Kevin Spacey,Drama\
+Blade Runner,Ridley Scott,Harrison Ford,Science Fiction\
+Jaws,Steven Spielberg,Roy Scheider,Thriller\
+The Avengers,Joss Whedon,Robert Downey Jr.,Action\
+The Usual Suspects,Bryan Singer,Kevin Spacey,Crime\
+La La Land,Damien Chazelle,Ryan Gosling,Musical\
+The Terminator,James Cameron,Arnold Schwarzenegger,Science Fiction\
+The Princess Bride,Rob Reiner,Cary Elwes,Adventure\
+Interstellar,Christopher Nolan,Matthew McConaughey,Science Fiction\
+12 Angry Men,Sidney Lumet,Henry Fonda,Drama\
+Back to the Future,Robert Zemeckis,Michael J. Fox,Science Fiction\
+Gravity,Alfonso Cuar\'f3n,Sandra Bullock,Science Fiction\
+The Great Gatsby,Baz Luhrmann,Leonardo DiCaprio,Drama\
+The Sixth Sense,M. Night Shyamalan,Bruce Willis,Thriller\
+The Lion King,Roger Allers,Rob Minkoff,Animation\
+Black Swan,Darren Aronofsky,Natalie Portman,Thriller\
+The Social Network,David Fincher,Andrew Garfield,Drama\
+Whiplash,Damien Chazelle,Miles Teller,Drama\
+The Big Lebowski,Joel Coen,Jeff Bridges,Comedy\
+The Sound of Music,Robert Wise,Julie Andrews,Musical\
+The Truman Show,Peter Weir,Jim Carrey,Drama\
+The Pianist,Roman Polanski,Adrien Brody,War\
+The Departed,Martin Scorsese,Jack Nicholson,Crime\
+Scarface,Brian De Palma,Al Pacino,Crime\
+The Prestige,Christopher Nolan,Hugh Jackman,Mystery\
+The Notebook,Nick Cassavetes,Ryan Gosling,Romance\
+Eternal Sunshine of the Spotless Mind,Michel Gondry,Kate Winslet,Romance\
+The Exorcist,William Friedkin,Ellen Burstyn,Horror\
+Raging Bull,Martin Scorsese,Robert De Niro,Drama\
+The Wizard of Oz,Victor Fleming,Judy Garland,Fantasy\
+Jaws,Steven Spielberg,Richard Dreyfuss,Adventure\
+The Incredibles,Brad Bird,Craig T. Nelson,Animation\
+Jurassic Park,Steven Spielberg,Sam Neill,Adventure\
+Mad Max: Fury Road,George Miller,Tom Hardy,Action\
+The Godfather: Part II,Francis Ford Coppola,Al Pacino,Drama\
+Die Hard,John McTiernan,Bruce Willis,Action\
+The Departed,Martin Scorsese,Mark Wahlberg,Crime\
+The Dark Knight Rises,Christopher Nolan,Tom Hardy,Action\
+The Grand Budapest Hotel,Wes Anderson,Adrien Brody,Comedy\
+The Princess Bride,Rob Reiner,Robin Wright,Adventure\
+The Matrix,Lana Wachowski,Carrie-Anne Moss,Science Fiction\
+The Social Network,David Fincher,Justin Timberlake,Drama\
+La La Land,Damien Chazelle,Emma Stone,Musical\
+Interstellar,Christopher Nolan,Anne Hathaway,Science Fiction\
+Gravity,Alfonso Cuar\'f3n,George Clooney,Thriller\
+The Great Gatsby,Baz Luhrmann,Tobey Maguire,Drama\
+The Lion King,Jon Favreau,Donald Glover,Adventure\
+Black Swan,Darren Aronofsky,Mila Kunis,Drama\
