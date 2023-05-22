@@ -20,6 +20,7 @@ public class Movie {
     }
     
     // Getters and setters (if needed)
+    //Pee pee poo poo man
     
     public static List<Movie> readMoviesFromCSV(String filename) {
         List<Movie> movies = new ArrayList<>();
