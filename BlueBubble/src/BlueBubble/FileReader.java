@@ -8,7 +8,7 @@ public class FileReader {
 		    try {
 		    //FILE WILL NOT WORK UNLESS THE CSV IS IN YOUR DOCUMENTS FOLDER
 		    //this code may also need to be edited, currently might only work on macos
-		      File myObj = new File("movies.csv"); //specify file path for device
+		      File myObj = new File("/Users/209580/git/BlueBubble/BlueBubble/src/BlueBubble/movies.txt"); //specify file path for device
 		      Scanner myReader = new Scanner(myObj);
 		      while (myReader.hasNextLine()) {
 		        String data = myReader.nextLine();
